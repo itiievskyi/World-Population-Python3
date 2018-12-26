@@ -10,6 +10,10 @@ You haven't to do anythyng else to see the changes – widgets refresh the chart
 
 ![World Population chart #2](/images/2.png)
 
+By default, the data is described in millions but you can easily change units to thoushands or billions.
+
+![World Population chart #3](/images/3.png)
+
 ### How to use
 Just open the **Population.ipynb** in your Jupyter Notebook.
 
